@@ -1,0 +1,186 @@
+.body{
+    background-color: black;
+    
+}
+.grid{
+    display: grid;
+    grid-template-columns: 25% 50% 25%;
+}
+.box1{
+    grid-column: 1 / span 3;
+    border: 2px solid black;
+    background-color: black;
+    display: inline-block;
+    color: aliceblue;
+    width: auto;
+    height: 50px;
+}
+.header{
+    display : grid;
+    grid-template-columns:  auto auto auto auto auto auto auto auto auto;
+}
+.flag{
+    width: 20px;
+    height: 10px;
+}
+.fff{
+    display: inline-block;
+}
+.qq{
+    text-decoration: none;
+    color: aliceblue;
+}
+.ww{
+    text-decoration: none;
+    color: aliceblue;
+}
+.aaa{
+    margin:0% ;
+}
+.eee{
+    margin:0% ;
+}
+.name{
+    margin: 0%;
+    margin-left: 10px;
+}
+.hhh{
+    margin: 0%;
+    color: orange;
+}
+.mmm{
+    margin: 0%;
+}
+.all{
+    margin-right: 0%;
+}
+.inp{
+    margin-left: 0%;
+}
+.box2{
+    grid-column: 1 / span 3;
+    
+}
+.my{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto auto auto auto auto ;
+    background-color: rgb(107, 105, 105);
+    height:30px;
+}
+.LLL{
+    text-decoration: none;
+    color: white;
+}
+.box3{
+    grid-column: 1 / span 6;
+    border: 1px solid black;
+    height: 6cm;
+}
+.p1{
+    bottom: 2px solid black;
+}
+.box4{
+    grid-column: 1 / span 6;
+    margin-left: 10px;
+}
+.product{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20%;   
+    grid-gap: 5%;
+    position:relative;
+    top:12px;
+}
+#PP1{
+    box-shadow:0px 0px 50px 1px #f4f4f5;
+    height: 300px;
+    margin-top: 5%;
+    background-color: rgb(255, 246, 236);
+    padding-left:4px;
+    padding-right:18px;
+    padding-top:18px;
+    padding-bottom:3px;
+   }
+   
+
+.PB1{
+    align-items: center;
+    display: grid;
+    grid-template-columns: 30% 30%;
+    grid-gap:10%;
+    
+        width:283px;
+        height:253px;
+       
+}
+.PB1L{
+    align-items: center;
+    margin-left: 40px;
+    height: fit-content;
+    
+}
+img{
+    height: 69px;
+    width: 66px;
+    display: inline;
+}
+p{
+    display: inline;
+}
+.sing{
+    margin-left: 10px;
+    width: 90%;
+    background-color: rgb(255, 196, 0);
+    border: solid rgb(255, 196, 0) ;
+    height: 30px;
+    border-radius: 10px;
+}
+.lap{
+    width: 100%;
+    margin-top: 12px;
+    height: 147px;
+}
+b{
+    margin-left: 15px;
+    margin-bottom: 40px;
+}
+h2{
+    margin-left: 20px;
+    margin-top: 0px;
+}
+legend{
+    margin-bottom: 17px;
+    
+}
+.slide{
+    width: 100%;
+    height: 500%;
+}
+.sin{
+    box-shadow:0px 0px 26px 12px #fe23e9;
+    background-color: azure;
+    height: 120px;
+    border-radius: 20px;
+}
+#mmm{
+padding-left:16px;
+ padding-right:10px;
+ padding-top:0px;
+ margin-left:7px;
+ margin-top:12px;
+ margin-bottom:0px;
+}
+.box13 .serach input[type=text]{
+    width:222px;
+    min-width:0px;
+    max-width:none;
+    min-height:0px;
+    max-height:none;
+    margin-left:-3px;
+    margin-right:-9px;
+    margin-bottom:-48px;
+    padding-left:7px;
+    padding-top:4px;
+   }
+.Hori{
+    background-color: #fe23e9;
+}
